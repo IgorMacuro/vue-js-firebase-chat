@@ -22,3 +22,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Working example
+[https://js-vue-chat.firebaseapp.com/#/](https://js-vue-chat.firebaseapp.com/#/)
